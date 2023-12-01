@@ -2,7 +2,6 @@ import type { Metadata } from 'next'
 import React from 'react'
 import './globals.css'
 import NavBar from '../../Components/NavBar'
-import Footer from '../../Components/Footer'
 
 
 export const metadata: Metadata = {
