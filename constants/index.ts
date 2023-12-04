@@ -1,13 +1,11 @@
-// NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'What is Brewing Grounds', label: 'What is Brewing Grounds' },
+    { href: '/page2', key: 'What is Brewing Grounds', label: 'What is Brewing Grounds' },
     { href: '/', key: 'Recipes', label: 'Recipes' },
     { href: '/', key: 'Basic Tools ', label: 'Basic Tools'},
     { href: '/', key: 'contact_us', label: 'Contact Us' },
   ];
   
-  // CAMP SECTION
   export const PEOPLE_URL = [
     '/person-1.png',
     '/person-2.png',
@@ -15,7 +13,7 @@ export const NAV_LINKS = [
     '/person-4.png',
   ];
   
-  // FEATURES SECTION
+  
   export const FEATURES = [
     {
       title: 'The Time to Brew Is Now',
@@ -47,7 +45,7 @@ export const NAV_LINKS = [
     },
   ];
   
-  // FOOTER SECTION
+  
   export const FOOTER_LINKS = [
     {
       title: 'Learn More',
